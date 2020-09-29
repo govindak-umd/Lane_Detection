@@ -21,6 +21,15 @@ Language used
 --
   
     Python 3.7
+
+Libraries Needed
+--
+	OpenCV 4.xx
+	numpy
+	matplotlib
+	functools - reduce
+	operator
+	math
     
 Note
 --
